@@ -1,4 +1,4 @@
-Just a guy who wants to go 'aboveStars.
+Just a guy who wants to go to 'aboveStars.
 
 <!--
 **aboveStars/aboveStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
