@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I can’t hack your girlfriends' social-media 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboveStars)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aboveStars)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aboveStars&show_icons=true&count_private=true)  
 
