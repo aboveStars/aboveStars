@@ -1,6 +1,6 @@
 ### Hi there 👋, aboveStars is here
 ![](https://media.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif)
-#### As a person who lives on '**pale blue dot**' :
+#### As a person who lives on '**pale blue dot**' ...
 - 🔭 I’m currently working on Microsoft Azure Could Computing 
 - 🌱 I’m currently learning sooooooo many things 
 - 👯 I’m looking to collaborate on any Open Source Project 
