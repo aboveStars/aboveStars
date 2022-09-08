@@ -11,7 +11,7 @@
 - 📫 How to reach me:
 [<img align= "center" src="https://img.icons8.com/color/344/apple-mail.png" width="25"/>](mailto:yunuskorkmazitu@gmail.com)
 [<img align= "center" src="https://img.icons8.com/color/344/instagram-new--v2.png" width="25"/>](https://www.instagram.com/yunus20korkmaz03/) 
-- ⚡ Fun fact: I can’t hack your girlfriends' social-media 
+- ⚡ Fun fact: I am not able to hack your girlfriends' social-media  <img align= "center" src="https://media.giphy.com/media/KDRv3QggAjyo/giphy.gif" width="15" height="15" />
 
 ![Profile views](https://gpvc.arturio.dev/aboveStars)
 
