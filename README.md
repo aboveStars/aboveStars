@@ -1,7 +1,7 @@
 ### Hi there 👋, aboveStars is here
 ![](https://media.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif)
 #### As a person who lives on '**pale blue dot**' ...
-- 🔭 I’m currently working on Microsoft Azure Cloud Computing 
+- 🔭 I’m currently working on Google Cloud Platform 
 - 🌱 I’m currently learning sooooooo many things 
 - 👯 I’m looking to collaborate on any Open Source Project 
 - 🤔 I’m looking for help with *going to aboveStars* 
