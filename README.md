@@ -1,8 +1,8 @@
 ### Hi there 👋, aboveStars is here
 ![](https://media.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif)
 #### As a person who lives on '**pale blue dot**' ...
-- 🔭 I’m currently working on Google Cloud Platform & Firebase Realtime Database
-[<img align= "center" src="https://img.icons8.com/color/452/google-cloud.png" width="25"/>](https://cloud.google.com/?hl=tr)
+- 🔭 I’m currently working on DigitalOcean Hosting & Firebase Realtime Database
+[<img align= "center" src="https://img.icons8.com/emoji/344/droplet.png" width="25"/>](https://www.digitalocean.com/)
 [<img align= "center" src="https://img.icons8.com/color/344/firebase.png" width="25"/>](https://firebase.google.com/)
 - 🌱 I’m currently learning sooooooo many things 
 - 👯 I’m looking to collaborate on any Open Source Project 
