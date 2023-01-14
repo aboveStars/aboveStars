@@ -7,7 +7,5 @@
 [<img align= "center" src="https://img.icons8.com/color/344/apple-mail.png" width="25"/>](mailto:yunuskorkmazitu@gmail.com)
 [<img align= "center" src="https://img.icons8.com/color/344/instagram-new--v2.png" width="25"/>](https://www.instagram.com/yunus20korkmaz03/) 
 
-![Profile views](https://gpvc.arturio.dev/aboveStars)
-
 `Icons from`
 [<img align= "center" src="https://img.icons8.com/color/344/icons8-new-logo.png" width="25"/>](https://icons8.com/)
